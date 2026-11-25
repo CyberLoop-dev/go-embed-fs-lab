@@ -1,0 +1,1 @@
+# Embedded files\n\nThis file is compiled into the Go program by the embed package.\n

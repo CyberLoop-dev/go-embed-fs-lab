@@ -1,0 +1,1 @@
+# Filesystem helpers\n\nUse fs.Sub to create a view rooted at a directory and fs.Glob to match paths.\n
